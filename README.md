@@ -1,1 +1,1 @@
-# RockPaperScissors
+First JS project
